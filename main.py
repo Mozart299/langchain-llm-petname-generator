@@ -118,7 +118,7 @@ def main():
             padding: 20px;
         }
         .highlight {
-            background-color: #f0f7ff;
+            background-color: #00000;
             padding: 20px;
             border-radius: 10px;
             margin: 10px 0;
