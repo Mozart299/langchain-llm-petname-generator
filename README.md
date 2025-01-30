@@ -38,7 +38,7 @@ A delightful Streamlit application that helps pet owners find the perfect name f
 1. Clone the repository (or download the source code):
 ```bash
 git clone https://github.com/Mozart299/langchain-llm-petname-generator.git
-cd pet-name-generator
+cd langchain-llm-petname-generator
 ```
 
 2. Create and activate a virtual environment (recommended):
