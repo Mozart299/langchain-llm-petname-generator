@@ -131,7 +131,7 @@ def setup_page_config():
             padding: 20px;
         }
         .highlight {
-            background-color: #f0f7ff;
+            background-color: #000000;
             padding: 20px;
             border-radius: 10px;
             margin: 10px 0;
